@@ -1,9 +1,13 @@
+body {
+  background-color:
+}
+
 
 
 .container {
   display: grid;
-  background-color:blue;
-  grid-template-columns: auto auto auto;
+  background-color:aquamarine;
+  grid-template-columns: 1fr 2fr 2fr;
   grid-template-rows: auto auto auto;
   padding: 10px;
 }
