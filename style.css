@@ -10,5 +10,6 @@ body {
   grid-template-columns: 1fr 2fr 2fr;
   grid-template-rows: auto auto auto;
   padding: 10px;
+  : #454421;
 }
 
