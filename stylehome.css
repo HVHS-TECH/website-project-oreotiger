@@ -2,7 +2,50 @@ body {
   background-color: #D0C88A
 }
 
+nav {
+      background-color: #454421;
+      padding: 20px;
+}
 
+    /* unvisited link */
+    a:link {
+      color:#1f2020;
+      background-color: #9cac5c;
+      font-weight: bold;
+      text-decoration: none;
+      padding: 5px;
+      border-radius: 5px;
+    }
+
+    /* visited link */
+    a:visited {
+      color:#1f2020;
+      background-color: #95AB57;
+      font-weight: bold;
+      text-decoration: none;
+      padding: 5px;
+      border-radius: 5px;
+    }
+
+    /* mouse over link */
+    a:hover {
+      color:#1f2020;
+      background-color: #D0C88A;
+      font-weight: bold;
+      text-decoration: underline;
+      padding: 5px;
+      border-radius: 5px;
+    }
+
+    /* selected link */
+    a:active {
+      color: #454421;
+      background-color: #95AB57;
+      font-weight: bold;
+      text-decoration: underline;
+      padding: 5px;
+      border-radius: 5px;
+    }
 
 .container {
   display: grid;
