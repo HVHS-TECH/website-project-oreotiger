@@ -19,7 +19,7 @@ nav {
 
     /* visited link */
     a:visited {
-      color:#1f2020;
+      color: #454421;
       background-color: #95AB57;
       font-weight: bold;
       text-decoration: none;
@@ -29,7 +29,7 @@ nav {
 
     /* mouse over link */
     a:hover {
-      color:#1f2020;
+      color: #454421;
       background-color: #D0C88A;
       font-weight: bold;
       text-decoration: underline;
@@ -56,3 +56,8 @@ nav {
   font-style: #454421;
 }
 
+.container img {
+padding: 5px;
+border-radius: 5px;
+border-color: #454421;
+}
