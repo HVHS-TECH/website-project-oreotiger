@@ -57,7 +57,9 @@ nav {
 }
 
 .container img {
-padding: 5px;
-border-radius: 5px;
+padding: 0px;
+border-radius: 20px;
+border: solid;
 border-color: #454421;
+border-width: 3px;
 }
