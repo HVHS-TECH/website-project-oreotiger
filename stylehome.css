@@ -49,7 +49,7 @@ nav {
 
 .container {
   display: grid;
-  background-color: #95AB57;
+  background-color: #D0C88A;
   grid-template-columns: 1fr 2fr 2fr;
   grid-template-rows: auto auto auto auto auto auto auto;
   padding: 10px;
