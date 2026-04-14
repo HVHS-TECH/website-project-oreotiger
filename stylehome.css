@@ -6,8 +6,9 @@ nav {
       background-color: #D0C88A;
       padding: 20px;
       img {
-        width: 100px;
+        width: 140px;
         height: auto;
+        padding-top: 10px;
       }
 }
 
