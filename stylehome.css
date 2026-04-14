@@ -7,9 +7,9 @@ nav {
       padding: 20px;
       img {
         width: auto;
-        height: 46px;
+        height: 47px;
         padding: 15px;
-        border-radius: 5px;
+        border-radius: 25px;
         position:absolute; top: 0px; bottom: auto; right: 15px; 
       }
 }
