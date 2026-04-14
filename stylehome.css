@@ -6,9 +6,9 @@ nav {
       background-color: #D0C88A;
       padding: 10px;
       img {
-        width: 100px;
+        width: 120px;
         height: auto;
-        padding: 0px;
+        padding: 15px;
         border-radius: 5px;
       }
 }
