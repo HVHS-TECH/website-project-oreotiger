@@ -10,7 +10,7 @@ nav {
         height: auto;
         padding: 15px;
         border-radius: 5px;
-        position:absolute; top: 15px; left: 1170px; right: auto; bottom: 15px;
+        position:absolute; top: 15px; left: auto; right: 16 auto; bottom: 15px;
       }
 }
 
