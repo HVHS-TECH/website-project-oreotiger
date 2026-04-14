@@ -5,14 +5,15 @@ body {
 nav {
       background-color: #D0C88A;
       padding: 10px;
-}
-
-img {
+      img {
         width: 120px;
         height: auto;
         padding: 15px;
         border-radius: 5px;
       }
+}
+
+
 
     /* unvisited link */
     a:link {
