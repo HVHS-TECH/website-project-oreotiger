@@ -5,7 +5,10 @@ body {
 nav {
       background-color: #D0C88A;
       padding: 20px;
-      image-size:;
+      img {
+        width: 100px;
+        height: auto;
+      }
 }
 
 
