@@ -70,7 +70,7 @@ h2 {
 .container {
   display: grid;
   background-color: #D0C88A;
-  grid-template-columns: 1fr 2fr 2fr;
+  grid-template-columns:auto auto auto;
   grid-template-rows: auto auto auto auto auto auto auto;
   font-style: #454421;
   margin-top: 8px;
