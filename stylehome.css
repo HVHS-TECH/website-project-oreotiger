@@ -14,7 +14,17 @@ nav {
       }
 }
 
+ p {
+  padding-left: 20px;
+  padding-right: 20px;
+}
 
+h2 {
+  padding-left: 20px;
+  font-weight:bold;
+  color: #454421;
+  padding-right: 20px;
+}
 
     /* unvisited link */
     a:link {
