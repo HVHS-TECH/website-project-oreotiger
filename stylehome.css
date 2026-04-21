@@ -129,9 +129,10 @@ border-width: 3px;
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
+  color: #454421;
   font-size: 15px;
-  bottom: 0px;
+  padding: 8px 12px;
+  bottom: 8px;
   width: 100%;
   text-align: center;
 }
