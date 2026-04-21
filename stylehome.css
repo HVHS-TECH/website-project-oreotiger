@@ -74,6 +74,12 @@ border-color: #454421;
 border-width: 3px;
 }
 
+.slideshow-container {
+  background-color: #D0C88A;
+  padding: 20px;
+}
+
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
