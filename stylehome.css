@@ -17,6 +17,7 @@ nav {
  p {
   padding-left: 20px;
   padding-right: 20px;
+  font-size:18px;
 }
 
 h2 {
@@ -26,6 +27,8 @@ h2 {
   padding-right: 20px;
   text-decoration: underline;
 }
+
+
 
     /* unvisited link */
     a:link {
