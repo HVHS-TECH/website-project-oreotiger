@@ -102,6 +102,10 @@ h1 {
   grid-column-end: 4;
 }
 
+.item11 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
 .container img {
 padding: 0px;
 border-radius: 20px;
