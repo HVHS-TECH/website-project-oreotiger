@@ -38,9 +38,9 @@ h1 {
   text-align: center;
 }
 
-.Link1 a {
+.Link a {
   color:#454421;
-  background
+  text-decoration:none;
 }
 
 
@@ -48,7 +48,7 @@ h1 {
 
 
     /* unvisited link */
-    a:link {
+    nav a:link {
       color:#454421;
       background-color: #9cac5c;
       font-weight: bold;
@@ -58,7 +58,7 @@ h1 {
     }
 
     /* visited link */
-    a:visited {
+    nav a:visited {
       color: #454421;
       background-color: #95AB57;
       font-weight: bold;
@@ -68,7 +68,7 @@ h1 {
     }
 
     /* mouse over link */
-    a:hover {
+    nav a:hover {
       color: #454421;
       background-color: #D0C88A;
       font-weight: bold;
@@ -78,7 +78,7 @@ h1 {
     }
 
     /* selected link */
-    a:active {
+    nav a:active {
       color: #454421;
       background-color: #95AB57;
       font-weight: bold;
