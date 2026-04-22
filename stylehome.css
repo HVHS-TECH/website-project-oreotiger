@@ -97,6 +97,11 @@ h1 {
   padding:20px;
 }
 
+.item8 {
+  grid-column-start: 2; 
+  grid-column-end: 4;
+}
+
 .container img {
 padding: 0px;
 border-radius: 20px;
