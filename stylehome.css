@@ -90,7 +90,7 @@ h1 {
 .container {
   display: grid;
   background-color: #D0C88A;
-  grid-template-columns:auto auto auto;
+  grid-template-columns:1fr 2fr 1fr;
   grid-template-rows: auto auto auto auto auto auto auto;
   font-style: #454421;
   margin-top: 8px;
@@ -105,6 +105,21 @@ h1 {
 .item11 {
   grid-column-start: 1;
   grid-column-end: 3;
+}
+
+.item14 {
+  grid-column-start: 2; 
+  grid-column-end: 4;
+}
+
+.item17 {
+  grid-column-start: 1; 
+  grid-column-end: 3;
+}
+
+.item20 {
+  grid-column-start: 2; 
+  grid-column-end: 4;
 }
 .container img {
 padding: 0px;
