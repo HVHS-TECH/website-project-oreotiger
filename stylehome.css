@@ -45,7 +45,7 @@ h1 {
   color:#454421;
 }
 
-.item2 img {
+.itemnot2 img {
   border-radius: 50%;
   height: 200px;
   width: auto;
@@ -54,7 +54,7 @@ h1 {
   padding: 20px;
 }
 
-.item2 {
+.itemnot2 {
   background-color:#95AB57;
 }
 
@@ -144,10 +144,11 @@ display: grid;
   grid-column-end: 4;
 }
 
-.item1 {
+.itemnot1 {
   grid-column-start: 1; 
   grid-column-end: 2;
   background-color:#95AB57;
+  border-radius: 10px;
 }
 
 .container img {
