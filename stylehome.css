@@ -54,7 +54,19 @@ h1 {
   padding: 20px;
 }
 
+.item2 {
+  background-color:#95AB57;
+}
 
+.containerindex {
+display: grid;
+  background-color: #D0C88A;
+  grid-template-columns:3fr 1fr;
+  grid-template-rows: auto auto auto auto auto auto auto;
+  font-style: #454421;
+  margin-top: 8px;
+  padding:20px;
+}
 
 
     /* unvisited link */
@@ -134,7 +146,7 @@ h1 {
 
 .item1 {
   grid-column-start: 1; 
-  grid-column-end: 3;
+  grid-column-end: 2;
   background-color:#95AB57;
 }
 
