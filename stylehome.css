@@ -46,7 +46,7 @@ h1 {
 }
 
 .item2 img {
-  border-radius: 2000px;
+  border-radius: 50%;
   height: 200px;
   width: auto;
   background-color: #95AB57;
