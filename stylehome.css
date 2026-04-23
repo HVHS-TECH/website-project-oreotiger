@@ -7,10 +7,10 @@ nav {
       padding: 20px;
       img {
         width: auto;
-        height: 47px;
+        height: 67px;
         padding: 15px;
         border-radius: 25px;
-        position:absolute; top: 0px; bottom: auto; right: 15px; 
+        position:absolute; top: 5px; bottom: auto; right: 15px; 
       }
 }
 
