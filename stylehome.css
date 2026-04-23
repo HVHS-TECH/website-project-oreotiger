@@ -56,7 +56,7 @@ h1 {
 
 .itemnot2 {
   background-color:#95AB57;
-  border-radius: 10px;
+  border-radius: 0 10px 10px 0;
 }
 
 .containerindex {
@@ -149,7 +149,7 @@ display: grid;
   grid-column-start: 1; 
   grid-column-end: 2;
   background-color:#95AB57;
-  border-radius: 10px;
+  border-radius: 10px 0 0 10px;
 }
 
 .container img {
